@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mExplore"
+        android:icon="@drawable/ic_explore"
+        android:title="Explore"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mCattegory"
+        android:icon="@drawable/ic_category"
+        android:title="Explore"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mFavoritos"
+        android:icon="@drawable/ic_favorite"
+        android:title="Explore"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mConfiguracao"
+        android:icon="@drawable/ic_settings"
+        android:title="Explore"
+        app:showAsAction="ifRoom" />
+</menu>
